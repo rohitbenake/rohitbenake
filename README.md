@@ -8,8 +8,6 @@ I am C++ Developer.
 <!--
 **rohitbenake/rohitbenake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Android Automotive project.
 - 🌱 I’m currently learning AR app for car showcase using unity.
 - 👯 I’m looking to collaborate on c++ development and infotainment problems.
@@ -46,7 +44,7 @@ Unity
 
 <img align="left" alt="Rohit Benake's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitbenake&show_icons=true&hide_border=true" />
 
-[website]: https://bnk.com
+[website]: https://github.com/rohitbenake
 [twitter]: https://twitter.com/RohitBenake
 [youtube]: https://youtube.com/rohitbenake
 [instagram]: https://instagram.com/rohitbenake
