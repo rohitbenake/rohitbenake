@@ -47,6 +47,6 @@ Unity
 
 [website]: https://github.com/rohitbenake
 [twitter]: https://twitter.com/RohitBenake
-[youtube]: https://youtube.com/rohitbenake@gmail.com
+[youtube]: https://www.youtube.com/channel/UCw0qcBxMWC8JdJEE9seAd-A
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/rohitbenake
