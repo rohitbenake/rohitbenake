@@ -42,3 +42,12 @@ Android Studio
 Unity
 
 ---
+---
+
+<img align="left" alt="Rohit Benake's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitbenake&show_icons=true&hide_border=true" />
+
+[website]: https://bnk.com
+[twitter]: https://twitter.com/RohitBenake
+[youtube]: https://youtube.com/rohitbenake
+[instagram]: https://instagram.com/rohitbenake
+[linkedin]: https://linkedin.com/in/rohitbenake
