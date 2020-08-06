@@ -22,8 +22,9 @@ I am C++ Developer.
 [<img align="left" alt="RohitBenake | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="RohitBenake | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Rohit Benake| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!--
 [<img align="left" alt="Rohit Benake | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+-->
 <br />
 
 ### Languages and Tools:
@@ -46,6 +47,6 @@ Unity
 
 [website]: https://github.com/rohitbenake
 [twitter]: https://twitter.com/RohitBenake
-[youtube]: https://youtube.com/rohitbenake
-[instagram]: https://instagram.com/rohitbenake
+[youtube]: https://youtube.com/rohitbenake@gmail.com
+[instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/rohitbenake
