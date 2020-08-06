@@ -30,14 +30,21 @@ I am C++ Developer.
 ### Languages and Tools:
 
 C++
+--
 Java 
+--
 Python 
+--
 C
 
 Visual Studio 
+--
 Candera - CGI studio
+--
 IBM - Rhapsody 
+--
 Android Studio
+--
 Unity
 
 ---
